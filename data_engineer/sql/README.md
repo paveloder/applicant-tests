@@ -54,7 +54,7 @@ select count (*) from items
 | #                             |
 
 ```sql
--- result here
+-- 1
 ```
 
 ### 2) Количество покупателей из Италии и Франции
